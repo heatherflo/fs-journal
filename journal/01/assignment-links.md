@@ -4,4 +4,5 @@
 * **[Cool Site](https://github.com/heatherflo/coolsite)**
 * **[Clone Site](https://github.com/heatherflo/cloneSite.git)**
 * **[Stop Light](https://heatherflo.github.io/stoplight/)**
-* **[Repo](https://github.com/heatherflo/<ASSIGNMENT_REPO>)**
+* **[Partner Site-together](https://github.com/brookejlacey/clone-site.git)**
+* **[Partner Site-Afterwards](https://github.com/heatherflo/cloneSite2.git)**
