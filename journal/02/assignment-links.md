@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
 * **[Scoreboard](https://heatherflo.github.io/scoreboard/)**
-* **[Repo](https://github.com/heatherflo/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/heatherflo/<ASSIGNMENT_REPO>)**
+* **[iceCreamParlor](hhttps://heatherflo.github.io/iceCreamParlor/)**
+* **[Swarm]( https://heatherflo.github.io/swarm/)**
 * **[Repo](https://github.com/heatherflo/<ASSIGNMENT_REPO>)**

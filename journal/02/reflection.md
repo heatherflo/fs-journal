@@ -3,6 +3,11 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+ I worked all break on concepts and tried to look ahead. That really seemed to help me understand the concepts we started learning this week .  
+
 - What did you learn that was a shock or surprise?
+
 - What are you struggling with?
+Mid-week: Really struggling with the topics. Understanding them as they come, but recalling them is hard. Even though I practiced all last week, I was really stressed out on Monday when I couldn't get basic design down for the website before even starting to code for function in JS.
+
 - What would you count as a victory?

@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > Coding standards that we all need to use to keep our code understandable and universal.
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > fruit.splice[2, 1];
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,11 +34,12 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > const you.friends.push[them]
+    const them.friends.push[you]
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > A conditional statement is one that will determine whether a piece of code will run or not. An if statement is an example of this. IF "something happens" THEN "this code will run" 
 
 07. What is the main difference between `parameters` and `arguments`?
 
@@ -46,12 +47,15 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > small changes, run code often
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > A primitive value is a single value that never changes (numbers, strings, boolean, etc). Reference date types are changeable, and they reference things that are larger like objects and arrays.
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > for(let i = -100; i < 100; i++){
+        console.log(i)
+
+    }
