@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/heatherflo/gameNight)**
-* **[Repo](https://github.com/heatherflo/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/heatherflo/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/heatherflo/<ASSIGNMENT_REPO>)**
+* **[Repo](https://heatherflo.github.io/gameNight/)**
+* **[Repo](https://heatherflo.github.io/VENDR/)**
+* **[Repo](https://heatherflo.github.io/gregslist/)**
+* **[Repo](https://heatherflo.github.io/jungleJumble/)**
