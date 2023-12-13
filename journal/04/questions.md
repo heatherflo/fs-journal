@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > REST stands for Representational State Transfer and it essentially is the rules on how api's should work and transfer information.  
 
 04. What is a callback / higher order function?
 
@@ -29,7 +29,7 @@
 
 08. What must you do in order to `await` a promise inside of a function?
                                                                                                         
-  > The promise must be an async function to start. Then tacking on 'await' will give the function the ability to wait for another function/order to be completed before coming back. 
+  > The promise must be an async function to start. Then tacking on 'await' will give the function the ability to wait for another function/order to be completed before coming back with a response (or not). 
 
 09. What is the purpose of encapsulation in programming?
 
