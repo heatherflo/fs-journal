@@ -21,7 +21,7 @@
 
 06. Name three processes used to make requests over `HTTP`?
                                                      
-  > | ANSWER HERE |
+  > POST, GET, PUT
 
 07. What does the `API` acronym stand for?
 
@@ -33,12 +33,12 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > Its so we can hide important information in a class so they can't be accessed as easily to change. 
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > We want to see a 200 OK to show that the response from a get was successful .
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > A bad request: something went wrong in the request to get data from the API. 
