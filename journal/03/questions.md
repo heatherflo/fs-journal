@@ -17,7 +17,7 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > A class is an object you create- a blueprint that hold and encloses all your objects (instances of that class you created.) you can then recall these instances elsewhere using the this.__ functionality. In the 'instance' of this value within the class- you can recall it. 
+  > A class is an object you create- a blueprint that holds and encloses all your objects (instances of that class you created.) you can then recall these instances elsewhere using the this.__ functionality. In the 'instance' of this value within the class- you can recall it. 
 
 06. What is a computed Property?
   

@@ -1,7 +1,9 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > Asynchronous code runs in the background of a webpage without having to reload the webpage- therefore making things faster and easier to load. 
+  > Asynchronous code runs in the background of a webpage without having to reload the webpage- therefore making things faster and easier to load. It allows you to fun multiple lines of code at once without making sure one is done first before starting another. 
+
+  >Synchronous code is code that only lets one line of code run at a time. It has to be completed before another line of code can start. 
 
 02. What is an event listener?
 
@@ -17,7 +19,7 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > A promise is a function that will run and give you two possible outcomes. 1: that the function may run and be completed (get a response) or 2. that the function may run and be rejected. If to capture an error from a promise you can 'catch' it using the try/catch method. 
+  > A promise is a function that will run and give you two possible outcomes. 1: that the function may run and be completed (get a response) or 2. that the function may run and be rejected. To capture an error from a promise you can 'catch' it using the try/catch method. 
 
 06. Name three processes used to make requests over `HTTP`?
                                                      

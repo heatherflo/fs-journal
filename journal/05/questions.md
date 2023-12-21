@@ -17,11 +17,13 @@
 
 04. Which two `HTTP` request types include a body?
 
-  > When we use POST and PUT we include a body because those are user updated changed and information being sent to to the server. 
+  > When we use POST and PUT we include a body because those are user updated changes and the 'body'  of information needs to be sent to the server. 
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
-  > | ANSWER HERE |
+  > A synchronous coding  model is one that returns only when asked and stops when retrieved. (Only one program runs at a time)
+
+  >An asynchronous coding model runs multiple programs at once. So this allows multiple things to be done at the same time- no required waiting til the program has finished running that first for things to get done. 
 
 06. What are the three types of data relationships? Provide an example of each.
 
@@ -35,12 +37,12 @@
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > Request delivers, Response returns 
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  >/tag/:winter
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > A virtual property is a Mongoose Schema field that can be added to our Schema without being added to our MongoDB database. We can store one value or multiple values. 
