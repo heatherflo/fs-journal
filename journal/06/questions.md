@@ -1,8 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > The main.js file is the entrypoint to the application. This is where the app decides what index.html file to be connected to and it initializes the app. 
-  >src file (contains)>> main.js / app.vue / components / assets 
+  > The app.vue is the entrypoint of the application as its our starting point for all our HTML .
 
 02. What is the difference between a vue `component` and `page`?
 
