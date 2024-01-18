@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+This week, not over quite yet, is very difficult and stressful for me only die to the fact that I am in the position I am in. But I feel confident I can understand the material with a little more guided help.  
 - What did you learn that was a shock or surprise?
+That I know more than I am giving myself credit for. 
 - What are you struggling with?
+I am struggling with - not the concept of- but the organization of (when to draw and pull from what files) in the relationships. 
 - What would you count as a victory?
+That I am still here. 
