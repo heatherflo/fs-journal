@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+This week I really enjoyed learning some of the different paths people have gone down after graduation. 
 - What did you learn that was a shock or surprise?
+Not much
 - What are you struggling with?
+I am struggling with how to make a landing page for my github. Talking about yourself and designing it in a compelling way is hard.  
 - What would you count as a victory?
+My team is getting more work done on our capstone and I have successfully decided where I would like to be in the world of programming as I look for jobs. 
