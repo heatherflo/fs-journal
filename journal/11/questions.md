@@ -17,7 +17,7 @@
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > An alias is another way to name a table elements (columns) so that you can identify them easier (when the columns have similar names).
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
