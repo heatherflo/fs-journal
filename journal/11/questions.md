@@ -1,19 +1,19 @@
 # A bit more CSharp and SQL
 1. What does ***inheritance*** accomplish for us in C#?
 
-  > | ANSWER HERE |
+  > Inheritance helps us make models (classes) that are 'children' within each other so we can call upon some values while hiding others- such as in account and profile. We can call a profile and show items here but also call on account without having to show all the items here. 
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | ANSWER HERE |
+  > When you inherit class properties you don't have to inherit the whole class but you don't have to access the whole thing - keeping some values hidden.
 
 3. How does ***accessibility*** affect inheritance?
 
-  > | ANSWER HERE |
+  > Accessibility is the ability to make a class public (seen by all the files) or internal (private within the one file)
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
-  > | ANSWER HERE |
+  > A primary key is a unique value within a table. A foreign key is a value will reference another table. 
 
 5. What is an ***alias***?
 
@@ -46,5 +46,10 @@
   )
 
   ```
-
-  > | ANSWER HERE |
+  > SELECT 
+    doctors.*,
+    patients.*
+    FROM doctors
+    JOIN patients ON doctors.patientId = patient.id 
+    WHERE doctors.id = LAST_INSERT_ID();
+    
